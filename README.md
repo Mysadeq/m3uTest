@@ -1,1 +1,11 @@
-# m3uTest
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:12372442
+#EXTINF:10.000,
+http://www.youtube.com/watch?v=aCH_vT1J_7U
+#EXTINF:10.000,
+http://www.youtube.com/watch?v=aCH_vT1J_7U
+#EXTINF:10.000,
+http://www.youtube.com/watch?v=aCH_vT1J_7U
